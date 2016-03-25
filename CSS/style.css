@@ -1,0 +1,74 @@
+body
+{
+	background-color:  lightblue;
+	font-size: 1em;
+	font-family: "Brandon Grotesque", "Futura Bold", Tahoma, sans-serif;
+	font-size-adjust: 0.58;
+	margin: 0px;
+	padding: 0px;
+}
+img
+{
+	border-radius: 10px;
+	alignment: center;
+}
+a:link
+{
+	color: white;
+}
+a:hover, a:visited
+{
+	color: gray;
+}
+a:active
+{
+	color: black;
+}
+nav table
+{
+	width: 100%;
+	height: 50px;
+	border-collapse: separate; 
+	border-spacing: 10px 5px;
+	border-radius: 10px;
+	background: #CC0000;
+}
+article
+{
+	border-style: solid;
+	border-width: thin;
+	border-radius: 10px;
+	width: 99.8%;
+}
+
+.center
+{
+	text-align: center;
+}
+.tableHead
+{
+	color: white;
+}
+#row1, #row3
+{
+	background-color:white;
+}
+#row2, #row4
+{
+	background-color: gray;
+}
+.box
+{
+	background: #CC0000;
+	border-radius: 10px;
+	cursor: pointer;
+	height: 40px:
+	width: 40px;
+	text-align: center;
+    transition-property: background;
+}
+.box:hover
+{
+	transform:rotate3d(1,0,0,180deg);
+
+}
