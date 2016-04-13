@@ -1,0 +1,44 @@
+{
+	"beefRecipes": [
+	{
+	"recipeName":"Beef Stew", 
+	"ingredients": [
+		{
+			"ingredientName": "roast beef",
+			"measurementType":"weight",
+			"ingredientAmount": 24
+		}
+		{
+			"ingredientName": "Russet Potatoes",
+			"measurementType":"number",
+			"ingredientAmount": 2
+		}
+		{
+			"ingredientName": "baby carrots",
+			"measurementType":"weight",
+			"ingredientAmount": 24
+		}
+		{
+			"ingredientName": "water",
+			"measurementType":"volume",
+			"ingredientAmount": 24
+		}
+	] 
+	"herbsAndSpices": [
+		{
+			"name": "salt",
+			"measurementType": "teaspoon".
+			"measurementAmount": 2
+		}
+	]
+	"equipment": [
+		{
+			"cooker":"Crock Pot",			
+		}
+		{
+			
+		}
+	]
+	}
+	]
+}
